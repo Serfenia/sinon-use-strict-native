@@ -14,7 +14,7 @@
     "babel": "^5.8.29"
   },
   "devDependencies": {
-    "sinon": "^1.17.2",
+    "sinon": "1.17.2",
     "mocha": "^2.3.3",
     "should": "^7.1.1"
   }

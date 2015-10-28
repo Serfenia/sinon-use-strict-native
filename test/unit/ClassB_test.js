@@ -1,5 +1,5 @@
 import sinon from 'sinon';
-import ClassB from '../ClassB';
+import ClassB from '../../ClassB';
 
 describe('Test', function() {
     let spy = sinon.spy();
