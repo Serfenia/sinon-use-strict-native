@@ -1,0 +1,23 @@
+{
+  "name": "sinon-test",
+  "version": "0.1.0",
+  "description": "<Insert short description here>",
+  "author": "Patrick <patr_vv@hotmail.com>",
+  "main": "server.js",
+  "engines": {
+    "node": "^4.1.1",
+    "npm": "^3.0.0"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "babel": "^5.8.29"
+  },
+  "devDependencies": {
+    "sinon": "^1.17.2",
+    "mocha": "^2.3.3",
+    "should": "^7.1.1",
+    "nodemon": "^1.8.0"
+  }
+}
